@@ -1,0 +1,38 @@
+{
+  "studio": [
+    {
+      "id": "ST-101",
+      "text": "Synthetic team requirement, 2026-09-20: Design studio prioritizes consistent display quality and an adjustable monitor stand for long document and design sessions."
+    },
+    {
+      "id": "ST-102",
+      "text": "Synthetic purchasing lesson, 2026-09-21: A previous unspecified laptop with 8 GB RAM was inadequate for the team's multitasking. Require at least 16 GB RAM on the exact configuration."
+    },
+    {
+      "id": "ST-103",
+      "text": "Synthetic team requirement, 2026-09-22: Check local warranty coverage and a written seller return policy. Do not assume global warranty applies in India."
+    },
+    {
+      "id": "ST-104",
+      "text": "Synthetic team preference, 2026-09-23: The studio values a concise comparison with source links and explicit unknowns. It has not approved any product in this dataset."
+    }
+  ],
+  "operations": [
+    {
+      "id": "OP-201",
+      "text": "Synthetic team requirement, 2026-09-20: Operations needs office equipment compatible with Windows laptops and existing USB-A accessories."
+    },
+    {
+      "id": "OP-202",
+      "text": "Synthetic purchasing lesson, 2026-09-21: An unspecified accessory needed an unexpected adapter. Verify included cables and ports before choosing equipment."
+    },
+    {
+      "id": "OP-203",
+      "text": "Synthetic team requirement, 2026-09-22: Total cost must include required adapters and delivery; unknown costs must be identified rather than guessed."
+    },
+    {
+      "id": "OP-204",
+      "text": "Synthetic team preference, 2026-09-23: Prioritize maintainability and local warranty service over cosmetic features. No current price or stock claim is stored in this memory."
+    }
+  ]
+}
