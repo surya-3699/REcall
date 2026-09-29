@@ -7,7 +7,10 @@
     "build": "next build --webpack",
     "start": "next start",
     "typecheck": "tsc --noEmit",
+<<<<<<< HEAD
     "test": "node --test tests/*.test.cjs",
+=======
+>>>>>>> cf32482ed85e0a5be268c6f4b90c00a04f4322eb
     "invite": "node --env-file=.env.local scripts/invite.mjs"
   },
   "dependencies": {

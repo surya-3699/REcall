@@ -31,7 +31,11 @@ See ARCHITECTURE.md and DEPLOYMENT.md for the actual data flow and hosting requi
 
 ## Verification and limitations
 
+<<<<<<< HEAD
 Run `npm test`, `npm run typecheck` and `npm run build`. The regression tests cover comparison validation, one bounded regeneration attempt, and provider-error propagation. Invalid comparisons are retried once against the same evidence without weakening citation validation. Server logs record only a request ID, provider, memory-view indicator, attempt and fixed validation reason, never the generated text or secrets. Build and mocked regression checks do not prove live service access, factual accuracy or persistence. Demonstrate retain, reload, recall and a useful later comparison with your configured account before presenting.
+=======
+Run `npm run typecheck` and `npm run build`. No test files are included in this delivery. Build and mocked regression checks do not prove live service access, factual accuracy or persistence. Demonstrate retain, reload, recall and a useful later comparison with your configured account before presenting.
+>>>>>>> cf32482ed85e0a5be268c6f4b90c00a04f4322eb
 
 Research uses current web sources, but excerpts may be stale, incomplete or describe another regional variant. Citation-ID validation is not semantic fact checking. A correction is retained context, not guaranteed deletion of an earlier record. The memory/no-memory views share evidence within one request but are not a controlled benchmark. An evidence-only outage preview is not a completed AI recommendation.
 
